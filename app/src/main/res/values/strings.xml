@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">采摘乐</string>
+    <string name="back">返回</string>
+    <string name="delete">删除</string>
+    <string name="setting">设置</string>
+    <string name="thisismenu">这是菜单</string>
+    <string name="call">电话</string>
+    <string name="freinds">朋友</string>
+    <string name="locations">地址</string>
+    <string name="mail">邮箱</string>
+    <string name="task">任务</string>
+    <string name="myname">杨金浩</string>
+</resources>
